@@ -1,0 +1,1 @@
+ C:\\Users\\LEGION\\StudioProjects\\Covid-19-Tracker-App\\.dart_tool\\flutter_build\\c32e2f573df1d77d10b8fbfccfc9c293\\native_assets.yaml: 
